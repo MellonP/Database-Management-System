@@ -24,4 +24,9 @@ The system demonstrates normalized design, clear entity relationships, and reali
    ```sql
    CREATE DATABASE library_management_system;
 
+![Library ERD](./w8.library_management_system.jpg)
 
+### Author
+
+MellonP
+Let me know if you want a version with your name/GitHub filled in!
