@@ -16,7 +16,7 @@ The system demonstrates normalized design, clear entity relationships, and reali
 
 ### Requirements
 - MySQL (Workbench, CLI, or compatible interface)
-- `librarymanagementsystem.sql` file
+- `library.sql` file
 
 ### Steps
 
