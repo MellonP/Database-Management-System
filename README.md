@@ -28,5 +28,6 @@ The system demonstrates normalized design, clear entity relationships, and reali
 
 ### Author
 
-MellonP
+@MellonP
+
 Let me know if you want a version with your name/GitHub filled in!
